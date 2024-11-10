@@ -1,6 +1,6 @@
 [package]
 name = "pomodoro-tracker"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Ye Gao <ye.gao@student.tdsb.on.ca"]
 description = "A Pomodoro timer CLI that tracks directory changes during work sessions"
