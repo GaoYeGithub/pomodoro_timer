@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Ye Gao <ye.gao@student.tdsb.on.ca"]
 description = "A Pomodoro timer CLI that tracks directory changes during work sessions"
 license = "MIT"
-repository = "https://github.com/GaoYeGithub/pomodoro-tracker"
+repository = "https://github.com/GaoYeGithub/pomodoro_timer"
 keywords = ["pomodoro", "productivity", "cli", "timer", "filesystem"]
 categories = ["command-line-utilities"]
 
